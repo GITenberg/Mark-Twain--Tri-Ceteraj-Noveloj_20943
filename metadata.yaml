@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20943#Mark-Twain--Tri-Ceteraj-Noveloj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2007-03-30'
 gutenberg_type: Text
